@@ -1,3 +1,4 @@
+![snake](https://raw.githubusercontent.com/syedailha17-arch/syedailha17-arch/main/github-contribution-grid-snake.svg)
 # Hey, I'm Ilha 👋
 
 🎓 Electronics & Communication Engineering student at NIT Srinagar
@@ -31,4 +32,4 @@ Machine Learning ──🎯
 Open Source ───────🎯
 ## Contributions
 
-![snake](https://raw.githubusercontent.com/syedailha17-arch/syedailha17-arch/main/github-contribution-grid-snake.svg)
+
