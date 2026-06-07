@@ -1,4 +1,4 @@
-![snake](https://raw.githubusercontent.com/syedailha17-arch/syedailha17-arch/main/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/syedailha17-arch/syedailha17-arch/output/github-contribution-grid-snake.svg)
 # Hey, I'm Ilha 👋
 
 🎓 Electronics & Communication Engineering student at NIT Srinagar
