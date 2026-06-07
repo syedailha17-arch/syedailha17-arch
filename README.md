@@ -1,4 +1,4 @@
-![snake](https://raw.githubusercontent.com/syedailha17-arch/syedailha17-arch/output/snake.svg)
+
 # Hey, I'm Ilha 👋
 
 🎓 Electronics & Communication Engineering student at NIT Srinagar
@@ -30,6 +30,8 @@ NumPy ─────────────✅
 Pandas ────────────🔄
 Machine Learning ──🎯
 Open Source ───────🎯
-## Contributions
+```
+
+![snake gif](https://raw.githubusercontent.com/syedailha17/syedailha17-arch/output/github-snake.svg)
 
 
