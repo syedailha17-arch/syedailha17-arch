@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Ilha 👋
 
-<!--
-**syedailha17-arch/syedailha17-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering student at NIT Srinagar
 
-Here are some ideas to get you started:
+I enjoy building things with code, figuring out how they work, and constantly learning new technologies. Right now, I'm focused on strengthening my Python skills and laying a solid foundation for Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently
+
+🔹 Working on my CS50P Final Project  
+🔹 Learning Pandas and working with datasets  
+🔹 Applying NumPy to solve computational problems  
+🔹 Exploring Git, GitHub, and Linux  
+🔹 Preparing for Andrew Ng's Machine Learning Specialization
+
+## 🛠️ Tech Stack
+
+- Python
+- C
+- NumPy
+- Pandas
+- Git
+- GitHub
+
+## 📚 Learning Journey
+
+```text
+Python ────────────✅
+NumPy ─────────────✅
+Pandas ────────────🔄
+Machine Learning ──🎯
+Open Source ───────🎯
