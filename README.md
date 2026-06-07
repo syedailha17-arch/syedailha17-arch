@@ -31,4 +31,4 @@ Machine Learning ──🎯
 Open Source ───────🎯
 ## Contributions
 
-![snake](https://github.com/syedailha17-arch/syedailha17-arch/blob/output/github-snake.svg)
+![snake](https://raw.githubusercontent.com/syedailha17-arch/syedailha17-arch/output/github-contribution-grid-snake.svg)
