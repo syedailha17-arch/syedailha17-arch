@@ -29,4 +29,6 @@ NumPy ─────────────✅
 Pandas ────────────🔄
 Machine Learning ──🎯
 Open Source ───────🎯
-![Snake Animation](https://github.com/syedailha17-arch/syedailha17-arch/blob/output/github-contribution-grid-snake.svg)
+## Contributions
+
+![snake](https://github.com/syedailha17-arch/syedailha17-arch/blob/output/github-snake.svg)
