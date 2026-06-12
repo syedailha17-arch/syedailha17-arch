@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&width=900&lines=%3E+Initializing...;%3E+Loading+Python...;%3E+Loading+NumPy...;%3E+Loading+Pandas...;%3E+Target%3A+Machine+Learning" />
-</h1>
+<p align="center">
+  <img src="YOUR_BANNER_URL">
+</p>
 # 💫 About Me:
 # Hi, I'm Syeda Ilha Fatima 👋<br><br>🎓 Engineering Student<br>💻 Learning Python, NumPy, and Programming Fundamentals<br>🤖 Interested in Machine Learning and Artificial Intelligence<br>🌱 Currently building a strong foundation in programming and mathematics<br><br>## Skills<br>- C<br>- Python<br>- NumPy<br>- Git & GitHub<br><br>## Currently Learning<br>- Data Structures<br>- Linear Algebra<br>- Machine Learning Fundamentals
 
