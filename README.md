@@ -1,8 +1,12 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FFD6E7,50:FFC0CB,100:FFB6C1&text=Syeda%20Ilha%20Fatima&fontColor=FFFFFF&fontSize=45&animation=twinkling&fontAlignY=40"/>
 </p>
-<h2>💫 About Me:</h2>
- <p>Hi, I'm Syeda Ilha 👋<br><br>🎓 Engineering Student<br>💻 Learning Python, NumPy, and Programming Fundamentals<br>🤖 Interested in Machine Learning and Artificial Intelligence<br>🌱 Currently building a strong foundation in programming and mathematics<br><br>## Skills<br>- C<br>- Python<br>- NumPy<br>- Git & GitHub<br><br>## Currently Learning<br>- Data Structures<br>- Linear Algebra<br>- Machine Learning Fundamentals</p>
+<h3>💫 About Me:</h3>
+ <p>Hi, I'm Syeda Ilha 👋<br><br>🎓 Engineering Student<br>💻 Learning Python, NumPy, and Programming Fundamentals<br>🤖 Interested in Machine Learning and Artificial Intelligence<br>🌱 Currently building a strong foundation in programming and mathematics<br><br></p>
+<h3>Skills</h3>
+   <p><br>- C<br>- Python<br>- NumPy<br>- Git & GitHub<br><br></p>
+<h3>Currently Learning</h3>
+     <p><br>- Data Structures<br>- Linear Algebra<br>- Machine Learning Fundamentals</p>
 
 
 🌐 Socials:
